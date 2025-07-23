@@ -40,7 +40,7 @@ reboot
 This first installer is the one I keep most up to date and use personally for all my clients. it is the one I recommend that you use.
 If you do not install the SSL cert during the initiial install, you have to turn the firewall off before trying to do it after a reboot. Dont forget to turn it back on. Also, by default the firewall will leave port 443 open to the public, so you can login and change the default password. Make sure you remove it from the public zone once your setup is done. Check this article for use of firewalld.
 
-# AI AMD - We also offer AI Driven Answering Machine Detection(AMD) available, email info@cyburdial.com for more info.
+# AI AMD - We also offer AI Driven Answering Machine Detection(AMD) available, email dialerstreet@gmail.com for more info.
 
 
 # NEW main installer to use for Alma/Rocky 9 w/ Dynamic portal, WebPhone, SSL cert & Asterisk 18 with Confbridges
@@ -96,7 +96,7 @@ chmod +x standard-db.sh
 
 # See tools section at the bottom for cluster db with 7 servers, 150 users and phones ready to go
 
-### Alma/Rocky 9 Installer with Dynamic portal and CyburPhone with SSL cert with Asterisk 18 for CONTABO ONLY
+### Alma/Rocky 9 Installer with Dynamic portal and avtlkphone with SSL cert with Asterisk 18 for CONTABO ONLY
 
 ```
 cd /usr/src/vicidial-install-scripts
